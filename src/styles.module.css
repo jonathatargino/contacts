@@ -1,0 +1,16 @@
+.mainContent {
+  padding: 40px 128px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.buttonDiv {
+  display: flex;
+  flex-direction: row-reverse
+}
+
+.searchBar {
+  display: flex;
+  gap: 40px;
+}
